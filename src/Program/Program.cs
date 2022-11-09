@@ -39,11 +39,10 @@ namespace Program
             visit.Visit(n1);
             Console.WriteLine(visit.Calcularedad);
             visit.Visitedad(n1);
-            Console.WriteLine(visit.maxedad);//Se calcula la edad maxima de los hijos, n1 nos es hijo.
+            Console.WriteLine(visit.maxedad);
             visit.VisitNombre(n1);
             Console.WriteLine(visit.nombremaslargo);
-            // visitar el árbol aquí
-            //
+        
         }
     }
 }
