@@ -7,7 +7,7 @@ namespace Program
     {
         static void Main(string[] args)
         {
-            Persona p1= new Persona("Jorge",150);
+            Persona p1= new Persona("Jorgerererereeee",150);
             Persona p2= new Persona("Isabel",100);
             Persona p3= new Persona("Felipe",60);
             Persona p4= new Persona("Carlos",45);
